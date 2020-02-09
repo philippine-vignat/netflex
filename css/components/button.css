@@ -1,0 +1,13 @@
+.btn-red {
+	background-color: #f40512;
+	padding: 15px 20px;
+	border-radius: 3px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.btn-red:hover {
+	background-color: red;
+	transition-delay: 0,1s;
+}
